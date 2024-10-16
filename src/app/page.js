@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 export default function Home() {
+
   return (
     <div>
       <h1>김태현 - 202030411 </h1>
